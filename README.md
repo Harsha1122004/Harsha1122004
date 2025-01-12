@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Harsha1122004/Harsha1122004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF" width="600"/>
 </div>
 
-# nithinreddy3093
+# Harshith Bezawada
 
 # 💫 About Me:
 🔭 I’m currently working on web development projects and risk assessment initiatives.<br><br>👯 I’m looking to collaborate on innovative web designs and cybersecurity projects.<br><br>🤝 I’m looking for help with enhancing the responsiveness of web designs and creating efficient DSA solutions.<br><br>🌱 I’m currently learning DSA and improving my web development skills.<br><br>💬 Ask me about Python, Machine Learning, or Cybersecurity strategies.<br><br>📫 How to reach me: marthalanithinreddy3093@gmail.com<br><br>📄 Know about my experiences: [View Resume](https://drive.google.com/file/d/1S84Gofl7DrrfSb2DHGzjTVF85vhGo3B7/view?usp=sharing)<br><br>⚡ Fun fact: I can talk endlessly about tech, but I need coffee to fuel my coding marathons!
@@ -46,4 +46,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
